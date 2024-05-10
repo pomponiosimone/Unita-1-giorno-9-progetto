@@ -1,0 +1,175 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+font-size : 1em;
+}
+
+a {
+    color:blue;
+    text-decoration: none
+}
+#a10{
+    color: white;
+    text-decoration: none
+}
+#Header {
+
+    background-color: #1A365C;
+    margin: auto;
+  height: 90%;
+}
+.logo1
+{ width: 125px;
+    height: 40px;
+    padding-left: 10px;
+}
+.Collegamenti{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+background-color: #364B69;
+margin: auto;
+color: white;
+font-size: 0.8em;
+line-height: 1.5;
+}
+
+.Sfondoarancione {
+    background-color: orangered;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 15px solid;
+    border-color: white;
+}
+
+.Verde{
+
+    background-image: url("../images/bg-img.png");
+    background-position: center;
+  
+    width: 1840px;
+font-weight: bold;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin: auto;
+    color: white;
+    font-size: 1.3em;
+    border:9px solid;
+    border-color: white;
+}
+
+.foto4{
+    width:1840px;
+    padding-top:20px;
+    
+    background-color: #F8F8FF;
+    display: flex;
+    justify-content: center;
+    color: black;
+font-size:0.9em;
+
+
+    }
+.primafoto {
+    background-image: url("../images/img_1.jpg");
+    background-position: center;
+    width: 150px;
+    height:300px;
+    padding:80px;
+    margin-left: 20px;
+    margin-right:20px;
+       
+        border-radius: 10px 10px 10px 10px; }
+
+.secondafoto {
+    background-image: url("../images/img_2.jpg");
+    background-position: center;
+    width: 150px;
+    height:300px;
+    padding:80px;
+    margin-left: 20px;
+    margin-right:20px;
+    border-radius: 10px 10px 10px 10px; }
+
+.terzafoto {
+    background-image: url("../images/img_3.jpg");
+    background-position: center;
+    padding:80px;
+    margin-left: 20px;
+    margin-right:20px;
+    width: 150px;
+    height:300px;
+    border-radius: 10px 10px 10px 10px;
+}
+.quartafoto {
+    background-image: url("../images/img_4.jpg");
+    background-position: center;
+    padding:80px;
+    margin-left: 20px;
+    margin-right:20px;
+    width: 150px;
+    height:300px;
+    border-radius: 10px 10px 10px 10px;
+}
+.testo{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin: auto;
+
+    height:16px;
+    font-size: 1em;
+    
+}
+.foto9 {
+    background-image: url("../images/img_9.png");
+    background-position: center;
+    margin:auto;
+    width: auto;
+    height:300px;
+    padding:20px;
+border:30px solid white;
+text-align: center;
+    
+}
+.foto10 {
+    background-image: url("../images/img_10.png");
+    background-position: center;
+    margin:auto;
+    width: auto;
+    height:350px;
+    padding:20px;
+    border:30px solid white;
+    text-align: center;
+    
+}
+.finale {
+    text-align: center;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+    background-color: #364B69;
+    margin: auto;
+ color: white;
+    
+    font-size: 0.8em;
+    line-height: 1.5;
+    }
+    
+.logofinale { text-align: center;
+    background-color: #1A365C;
+    margin: auto;
+  height: 90%;
+}
+
+.testo2{
+    color: black;
+    text-align: center;
+    margin:auto;
+    font-size: 0.8em;
+    padding:50px;
+
+}
+
